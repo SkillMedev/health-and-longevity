@@ -14,13 +14,13 @@ Reach for this when you want a health routine that holds up over years, not a 6-
 
 ## Skills in this pack
 
-- **[Bloodwork Explainer](skills/bloodwork-explainer/SKILL.md)** — Explains common lab panels in plain language, typical reference ranges, and what questions to bring to a doctor.
-- **[Nutrition Planner](skills/nutrition-planner/SKILL.md)** — Build a sustainable nutrition plan around protein targets, whole foods, and long-term adherence.
+- **[Bloodwork Explainer](skills/bloodwork-explainer/SKILL.md)** — Translates common lab panels — CBC, CMP, lipid panel, thyroid, hormones, HbA1c — into plain language, flags values against the lab's own reference ranges, and produces a prioritized question list to bring to a physician.
+- **[Nutrition Planner](skills/nutrition-planner/SKILL.md)** — Sets personal nutrition targets — protein at 1.6-2.2 g/kg, a calorie budget from goal and activity, fiber and hydration floors — and a repeatable meal structure with a review-and-adjust protocol for fat loss, muscle gain, or maintenance.
 - **[Strength Training Plan](skills/strength-training-plan/SKILL.md)** — Use when someone starts lifting, hits a strength or hypertrophy plateau, restructures a lifting program, or wants to build strength or muscle — designing a progressive resistance program with splits, compound movement patterns, sets/reps, progressive overload, and deloads from barbells and dumbbells.
-- **[Injury Prehab](skills/injury-prehab/SKILL.md)** — Designs prehab and mobility work to reduce injury risk at common problem areas: shoulders, knees, lower back, and hips.
-- **[Mobility Routine](skills/mobility-routine/SKILL.md)** — Builds a daily mobility and flexibility routine for desk workers targeting hips, thoracic spine, shoulders, and ankles.
-- **[Sleep Optimizer](skills/sleep-optimizer/SKILL.md)** — Creates personalized sleep protocols based on chronotype, environment, and recovery goals.
-- **[Longevity Protocol](skills/longevity-protocol/SKILL.md)** — Assembles an evidence-informed longevity routine spanning sleep, zone 2 cardio, strength, and diet.
+- **[Injury Prehab](skills/injury-prehab/SKILL.md)** — Designs targeted prehab routines — sets, reps, and weekly placement — that build resilience at the four most common failure zones: shoulders, knees, lower back, and hips, matched to the user's training program.
+- **[Mobility Routine](skills/mobility-routine/SKILL.md)** — Builds a 10-15 minute daily floor-based mobility routine for desk workers, targeting the four zones sitting predictably stiffens — hips, thoracic spine, shoulders/neck, and ankles — with exact holds, reps, and a sequenced routine card.
+- **[Sleep Optimizer](skills/sleep-optimizer/SKILL.md)** — Builds a personalized sleep protocol — a fixed wake time held within 30 minutes daily, a chronotype-aligned sleep window, a light-exposure plan, environment settings, evening input rules, and a scripted wind-down routine — from a baseline assessment.
+- **[Longevity Protocol](skills/longevity-protocol/SKILL.md)** — Assembles an evidence-tiered weekly longevity routine across the four pillars with the strongest healthspan data — sleep, zone 2 aerobic work, strength training, and dietary pattern — plus stress and connection, delivered as a filled weekly template with honest evidence labels.
 - **[Zone 2 Cardio Plan](skills/zone-2-cardio-plan/SKILL.md)** — Use when someone asks to build a steady-state cardio plan, train an aerobic base or Zone 2, structure easy or endurance weekly cardio, train by heart-rate zones, or improve resting heart rate, VO2, or endurance.
 
 ## License

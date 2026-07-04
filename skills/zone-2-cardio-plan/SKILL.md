@@ -27,6 +27,10 @@ Zone 2 sessions should be long enough to matter: start at 30–45 minutes and bu
 
 Default progression is volume before intensity. Increase total weekly Zone 2 time by no more than ~10% per week to protect tendons and avoid overuse. Build for 3 weeks, then take a recovery week at ~60% volume before the next block. Tie progress to a measurable goal: a target resting heart rate, a longer continuous Zone 2 session, a faster pace at the same heart rate (aerobic decoupling shrinking), or a benchmark like a 5K time or a set distance. Re-test the benchmark at the end of each block and adjust zones if resting or max HR has shifted.
 
+## Deliverable
+
+Produce a 4-week training block the user can follow directly, containing: (1) their personal zone table in actual bpm ranges (with the estimation method flagged); (2) the chosen primary modality and the reasoning; (3) a week-by-week calendar naming each session's zone, duration, and format (including the one weekly interval session and the week-4 recovery week at ~60% volume); (4) the progression rule capped at ~10% weekly volume; and (5) the benchmark to re-test at block end. Include the medical-clearance caveat up front.
+
 ## Quality Bar
 
 A plan is done well when: every session names a target HR zone in actual bpm, not just a vibe; the week is genuinely polarized (mostly easy, a little hard) rather than uniformly moderate; the modality fits the user's goal and joints and is one they'll repeat; progression is explicit and capped (~10%/week, with a recovery week); and success is tied to a concrete, re-testable aerobic-endurance metric. The medical-clearance caveat is present.
@@ -37,5 +41,7 @@ A plan is done well when: every session names a target HR zone in actual bpm, no
 - Don't let "easy" days drift into Zone 3; protect the aerobic base.
 - Don't stack multiple high-intensity sessions into a base block, or skip the recovery week.
 - Don't ramp weekly volume aggressively; injury ends a block faster than any plateau.
+- Don't treat the 220-minus-age estimate as ground truth — individual max HR varies by ±10–15 bpm; adjust zones from observed data (talk test, decoupling, a field test) rather than defending the formula.
+- Don't chase pace on Zone 2 days; the target is the heart-rate ceiling, and pace at that ceiling improving over weeks is the progress signal, not something to force.
 - Don't program strength or lifting work, high-intensity interval conditioning or HIIT, or mobility/flexibility drills here — hand those to Strength Training Plan, Conditioning & HIIT Program, and Mobility Routine respectively.
 - Don't pose as a medical provider; flag the clearance need and stop short of diagnosing or treating.

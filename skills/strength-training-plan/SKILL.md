@@ -31,6 +31,10 @@ Start every session with 5 minutes of light cardio or general movement, then 2�
 
 Schedule a deload week every 4–8 weeks of hard training: reduce volume by 40–50% while keeping intensity moderate. Sleep 7–9 hours per night — it is the single most effective recovery tool available. Protein timing matters less than total daily protein; focus there first.
 
+## Deliverable
+
+Produce a written program document the trainee can log against session by session, containing: (1) the weekly split with named training days matched to training age; (2) each session's exercise list mapped to the five (or six) movement patterns; (3) explicit sets × reps × effort per lift tied to the goal; (4) the progression rule — exact increments and the two-week stall trigger with its deload response; (5) the scheduled deload weeks; and (6) the warm-up protocol. Include equipment substitutions where the default barbell setup is unavailable.
+
 ## Quality Bar
 
 A finished program must:
@@ -47,5 +51,7 @@ A finished program must:
 - Do not prescribe a 5–6 day advanced split to a beginner — frequency outruns recovery and progress stalls.
 - Do not write open-ended progression ("just add weight when you can"). Name the increment and the stall rule.
 - Do not skip the hinge or vertical pull because they are uncomfortable; rebalanced programs build imbalances.
+- Do not swap the exercise list every week ("program hopping") — progressive overload requires repeating the same lifts long enough to measure and beat them.
+- Do not take every working set to failure; chronic failure training inflates fatigue faster than it drives adaptation and wrecks the next session's quality. Leave 1–3 reps in reserve on most sets.
 - Do not bolt conditioning intervals, an aerobic base, or a mobility flow into this program — hand those off to fitness-program, zone-2-cardio-plan, and mobility-routine.
 - Do not give injury rehab or medical advice. Refer out.
