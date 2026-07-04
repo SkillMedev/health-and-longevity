@@ -9,7 +9,7 @@ Reach for this when you want a health routine that holds up over years, not a 6-
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/health-and-longevity](https://skillme.dev/pack/health-and-longevity) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/health-and-longevity`
+- **With the skills CLI:** `npx skills add SkillMedev/health-and-longevity`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
